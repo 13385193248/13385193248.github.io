@@ -1,0 +1,38 @@
+.god1{
+	border-top: 10px solid gold;
+	font-size: 25px;
+	border-bottom: 10px solid gold;
+	background: deepskyblue;
+	 padding-top:10px; padding-left:100px; margin:10px;
+	
+	top: 500px;
+	left: -100px;
+}
+.god2{
+	color: wheat;
+	top: 500px;
+	left: 530px;
+}
+.god3{
+	float: initial;
+	height: 300px;
+	text-align: center;
+	font-size: 200px;
+	color: white;
+}
+.god4{
+	text-align-last: center;
+}
+.god5{
+	text-align: right;
+}
+
+.god6{
+	padding: 500px;
+}
+nav ul ul{
+	display: none;
+}
+nav ul li:hover>ul{
+	display: block;
+}
